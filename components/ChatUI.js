@@ -272,7 +272,7 @@ export default function ChatUI() {
                                 <path strokeLinecap="round" strokeLinejoin="round" d="M3.75 5.25h16.5m-16.5 6h16.5m-16.5 6h16.5" />
                             </svg>
                         </button>
-                        <h1 className="text-2xl font-bold">AI Chat</h1>
+                        <h1 className="text-2xl font-bold">Branding Bot</h1>
                     </div>
                     <button
                         onClick={newSession}
